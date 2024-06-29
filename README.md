@@ -1,8 +1,10 @@
 ## 💫 Olá, sou Caio Paulino!
 Desenvolvedor FullStack apaixonado por criar soluções eficientes e amigáveis para o usuário com ReactJS e Java Spring Boot. Atualmente cursando Análise e Desenvolvimento de Sistemas na Universidade São Judas Tadeu. Habilidades em HTML, CSS, JavaScript, ReactJS, Java, Spring Boot, Git e MySQL. Sempre ansioso para aprender e enfrentar novos desafios.
 
-![Caio GitHub stats](https://github-readme-stats.vercel.app/api?username=Caio-Paulino&show_icons=true&theme=dracula&hide=contribs)
-![Caio GitHub stats](https://github-readme-stats.vercel.app/api/top-langs?username=Caio-Paulino&layout=compact&theme=dracula)
+<div>
+<img height="180em" src="https://github-readme-stats.vercel.app/api?username=Caio-Paulino&show_icons=true&theme=dracula&hide=contribs"/>
+<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs?username=Caio-Paulino&layout=compact&theme=dracula"/>
+</div>
 
 <div style="display: inline_block"><br>
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/html5/html5-original.svg" alt="Logo HTML" height="30" width="40"/>
